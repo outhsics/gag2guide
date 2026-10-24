@@ -7,7 +7,7 @@ const NAV = [
 ];
 
 export const metadata = {
-  metadataBase: new URL("https://gag2guide.pages.dev"),
+  metadataBase: new URL("https://outhsics.github.io/gag2guide"),
   title: { default: "Grow a Garden 2 Guide — Codes, Pets, Mutations & More | GAG2 Guide", template: "%s | GAG2 Guide" },
   description: "Grow a Garden 2 (Roblox) player guide: active codes, pet hatch odds, mutation mechanics, weather cycles, eggs, crops and money-making tips. Updated for the Fall Harvest event.",
 };

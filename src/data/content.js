@@ -1,5 +1,5 @@
 // 站点内容数据 — 全部来自 03-关卡3-素材/wiki/ 的 Fandom 抓取（2026-09-22），不编造
-export const SITE = "https://gag2guide.pages.dev";
+export const SITE = "https://outhsics.github.io/gag2guide";
 
 export const CODES = [
   { code: "TEAMGREENBEAN", rewardGV: "3x Green Bean Seed", rewardFH: "3x Maple Green Bean Seed", req: "None" },
