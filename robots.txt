@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://outhsics.github.io/gag2guide/sitemap.xml
