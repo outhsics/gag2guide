@@ -3,7 +3,7 @@ import "./globals.css";
 const NAV = [
   ["/codes/", "Codes"], ["/pets/", "Pets"], ["/mutations/", "Mutations"],
   ["/weather/", "Weather"], ["/eggs/", "Eggs"], ["/crops/", "Crops & Seeds"],
-  ["/gear/", "Gear Shop"], ["/guide/", "Guide"],
+  ["/gear/", "Gear Shop"], ["/guilds/", "Guilds"], ["/guide/", "Guide"],
 ];
 
 export const metadata = {
